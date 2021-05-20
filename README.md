@@ -1,4 +1,4 @@
-# bcgov/nrts-prc-admin
+# bcgov/nrts-prc-admin [![Lifecycle:Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500)](<Redirect-URL>)
 
 Administrative front-end for the ACRFD (formerly: PRC) application.
 
